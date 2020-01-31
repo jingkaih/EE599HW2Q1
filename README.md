@@ -1,2 +1,2 @@
 # EE599HW2Q1
-There is an ADD function
+There are 4 ADD functions with 4 tests.
